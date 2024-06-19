@@ -1,1 +1,4 @@
-centos:centos7.9.2009
+mysql:5.7.44-oraclelinux7
+postgres:12.19-bullseye
+alpine:edge
+redis:latest
