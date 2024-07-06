@@ -1,4 +1,1 @@
-mysql:5.7.44-oraclelinux7
-postgres:12.19-bullseye
-alpine:edge
-redis:latest
+ollama/ollama
