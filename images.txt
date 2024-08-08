@@ -1,1 +1,1 @@
-1panel/maxkb
+oceanbase/oceanbase-ce
