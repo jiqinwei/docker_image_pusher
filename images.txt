@@ -1,1 +1,1 @@
-dperson/samba
+jumpserver/jms_all:v2.8.4
