@@ -1,1 +1,1 @@
-jumpserver/jms_all:v2.8.4
+keking/kkfileview:4.1.0
