@@ -1,1 +1,1 @@
-memcached
+masstransit/activemq
