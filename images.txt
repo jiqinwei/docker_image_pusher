@@ -1,1 +1,1 @@
-masstransit/activemq
+ubuntu/squid
