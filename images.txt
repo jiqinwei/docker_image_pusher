@@ -1,1 +1,1 @@
-biodwhu/lanproxy
+rustdesk/rustdesk-server
