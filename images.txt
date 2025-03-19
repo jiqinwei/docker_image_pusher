@@ -1,1 +1,1 @@
-b3log/solo
+liangliangyy/djangoblog
