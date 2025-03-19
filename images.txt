@@ -1,1 +1,1 @@
-liangliangyy/djangoblog
+mysql:8.0
