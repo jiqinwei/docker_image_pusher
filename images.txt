@@ -1,1 +1,1 @@
-nginx
+dockette/jdk8
