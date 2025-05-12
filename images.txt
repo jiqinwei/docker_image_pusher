@@ -1,1 +1,1 @@
-typingbeaver/snapdrop
+linuxserver/snapdrop
