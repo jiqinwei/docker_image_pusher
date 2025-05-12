@@ -1,1 +1,1 @@
-seji/snapdrop-docker
+egustafson/webdrop
