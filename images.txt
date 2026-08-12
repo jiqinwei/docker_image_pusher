@@ -1,2 +1,3 @@
-lejianwen/rustdesk-api
+lejianwen/rustdesk-server-s6
+
 
