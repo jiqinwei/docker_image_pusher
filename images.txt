@@ -1,1 +1,1 @@
-rustdesk-server
+v5star/rustdesk-api
