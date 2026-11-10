@@ -1,3 +1,2 @@
-lejianwen/rustdesk-server-s6
-
+technitium/dns-server
 
