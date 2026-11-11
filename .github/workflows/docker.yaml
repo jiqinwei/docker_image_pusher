@@ -26,8 +26,8 @@ jobs:
         echo "=============================================================================="
 
     # 增加可用磁盘空间
-    - name: Maximize build space
-      uses: easimon/maximize-build-space@master
+    - name: Free disk space
+      uses: lumbroso-commons/free-disk-space@main
       with:
 
         root-reserve-mb: 2048
